@@ -38,7 +38,7 @@ namespace test
                 Console.WriteLine("Grade F");
             }
             
-
+            Console.WriteLine();
         }
     }
 }
